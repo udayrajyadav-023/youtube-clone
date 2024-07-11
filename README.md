@@ -1,4 +1,4 @@
- # YouTube Clone💥
+ # YouTube Clone
 🎥 YouTube Clone with React.js & Tailwind CSS 
 
 Explore the world of video-sharing with our fully functional and fully responsive YouTube clone! This single-page application is built using React.js, Tailwind CSS, and integrates seamlessly with Rapid API for fetching video data.
